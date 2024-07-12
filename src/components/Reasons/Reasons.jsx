@@ -42,6 +42,15 @@ const Reasons = () => {
             <span>New Member Benefits</span>
           </div>
         </div>
+        <span style={{ color: "var(--gray)", fontWeight: "normal" }}>
+          Our Partners
+        </span>
+
+        <div className="partners">
+          <img src={nike} alt="" />
+          <img src={nb} alt="" />
+          <img src={adidas} alt="" />
+        </div>
       </div>
     </div>
   );
