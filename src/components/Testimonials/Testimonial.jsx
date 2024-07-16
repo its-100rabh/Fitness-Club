@@ -21,6 +21,8 @@ const Testimonial = () => {
         - {testimonialsData[selected].status}
       </div>
       <div className="right-t">
+        <div></div>
+        <div></div>
         <img src={testimonialsData[selected].image} alt="" />
         <div className="arrows">
           <img src={leftArrow} alt="" /> <img src={rightArrow} alt="" />
