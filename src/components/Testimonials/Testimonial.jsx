@@ -7,7 +7,7 @@ const Testimonial = () => {
       <div className="left-t">
         <span>Testimonials</span>
         <span className="stroke-text">What people</span>
-        <span>say about us</span>
+        <span>say about us?</span>
       </div>
       <div className="right-t"></div>
     </div>
